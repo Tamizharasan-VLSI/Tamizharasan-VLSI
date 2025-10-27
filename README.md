@@ -53,9 +53,16 @@ Want to become a VLSI Design Verification Engineer.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamizharasan&show_icons=true&theme=radical" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamizharasan&layout=compact&theme=radical" height="170" alt="Top languages" />
 </p>
+
+<!-- Followers badge (shields.io is very reliable) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Tamizharasan?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Tamizharasan?label=Stars" alt="Stars" />
+</p>
+
 
 ---
 
