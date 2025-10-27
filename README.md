@@ -12,7 +12,7 @@ Focused on **Front-End VLSI Design** and building reliable, efficient digital sy
 
 | Domain | Tools / Skills |
 |--------|----------------|
-| RTL Design | Verilog, FSM Desig, FIFO, Simulation, Timing analysis, Learning SystemVerilog |
+| RTL Design | Verilog, FSM Design, FIFO, Simulation, Timing analysis, Learning SystemVerilog |
 | Tools | Vivado, EDA playground, Gvim |
 | Protocols | AMBA APB, AXI, PCIe Datalink Layer |
 | Fundamentals | Digital Electronics, CDC Basics |
