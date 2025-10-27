@@ -38,7 +38,7 @@ Focused on **Front-End VLSI Design** and building reliable, efficient digital sy
 
 Craft clean RTL.  
 Contribute to SoC Design.  
-Grow into a strong Front-End Chip Designer.
+Grow into a strong Front-End Chip Designer and
 Want to become a VLSI Design Verification Engineer.
 ---
 
