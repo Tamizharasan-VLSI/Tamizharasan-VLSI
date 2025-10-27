@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hello! I'm **Tamizharasan**
+#  I'm **Tamizharasan**
 
 ### 🧩 Aspiring RTL & Digital Design and Verification Engineer | Junior VLSI Engineer
 
@@ -12,8 +12,8 @@ Focused on **Front-End VLSI Design** and building reliable, efficient digital sy
 
 | Domain | Tools / Skills |
 |--------|----------------|
-| RTL Design | Verilog, FSM Desig, FIFO, Learning SystemVerilog, |
-| Tools | Vivado, Gvim |
+| RTL Design | Verilog, FSM Desig, FIFO, Simulation, Timing analysis, Learning SystemVerilog |
+| Tools | Vivado, EDA playground, Gvim |
 | Protocols | AMBA APB, AXI, PCIe Datalink Layer |
 | Fundamentals | Digital Electronics, CDC Basics |
 | OS Skills |Learning Linux Commands |
