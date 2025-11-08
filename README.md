@@ -1,7 +1,7 @@
 ## Hi there 👋
 #  I'm **Tamizharasan**
 
-### 🧩 Aspiring RTL & Digital Design and Verification Engineer | Junior VLSI Engineer
+### 🧩 Aspiring RTL & Design Verification Engineer | Junior VLSI Engineer
 
 💡 Passionate about turning logic into silicon reality.  
 Focused on **Front-End VLSI Design** and building reliable, efficient digital systems.
